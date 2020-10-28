@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![maybe-william's github stats](https://github-readme-stats.vercel.app/api?username=maybe-william&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **maybe-william/maybe-william** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
