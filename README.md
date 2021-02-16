@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 -->
 
-🔭 I’m currently working on developing an alternate syntax for the C language.
+🔭 I’m currently working on making a simple old-fashioned RPG styled game.
 
 🌱 I’m currently learning to be a better writer.
 
